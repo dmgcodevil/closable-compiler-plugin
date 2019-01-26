@@ -1,0 +1,4 @@
+<plugin>
+    <name>closable-compiler-plugin</name>
+    <classname>com.github.dmgcodevil.closable.plugin.ClosableCompilerPlugin</classname>
+</plugin>

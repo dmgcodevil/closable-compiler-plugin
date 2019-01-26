@@ -1,2 +1,10 @@
-*.class
-*.log
+.idea/
+.classpath
+.project
+.settings/
+target/
+project/target
+.cache
+native/
+
+.DS_Store
